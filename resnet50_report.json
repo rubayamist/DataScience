@@ -1,0 +1,57 @@
+{
+  "Alluvial_Soil": {
+    "precision": 0.95,
+    "recall": 0.9743589743589743,
+    "f1-score": 0.9620253164556962,
+    "support": 117.0
+  },
+  "Arid_Soil": {
+    "precision": 0.9166666666666666,
+    "recall": 0.859375,
+    "f1-score": 0.8870967741935484,
+    "support": 64.0
+  },
+  "Black_Soil": {
+    "precision": 0.995575221238938,
+    "recall": 0.982532751091703,
+    "f1-score": 0.989010989010989,
+    "support": 229.0
+  },
+  "Laterite_Soil": {
+    "precision": 0.918918918918919,
+    "recall": 0.85,
+    "f1-score": 0.8831168831168831,
+    "support": 40.0
+  },
+  "Mountain_Soil": {
+    "precision": 0.8571428571428571,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.9,
+    "support": 38.0
+  },
+  "Red_Soil": {
+    "precision": 0.9922779922779923,
+    "recall": 1.0,
+    "f1-score": 0.9961240310077519,
+    "support": 257.0
+  },
+  "Yellow_Soil": {
+    "precision": 0.9891304347826086,
+    "recall": 0.9927272727272727,
+    "f1-score": 0.9909255898366606,
+    "support": 275.0
+  },
+  "accuracy": 0.9745098039215686,
+  "macro avg": {
+    "precision": 0.9456731558611401,
+    "recall": 0.9437660598900831,
+    "f1-score": 0.9440427976602184,
+    "support": 1020.0
+  },
+  "weighted avg": {
+    "precision": 0.9746645992541473,
+    "recall": 0.9745098039215686,
+    "f1-score": 0.9743605495646758,
+    "support": 1020.0
+  }
+}
